@@ -1,0 +1,22 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "minesweeper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjpennock/mineSweeper.git"
+  },
+  "author": "Chester Pennock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjpennock/mineSweeper/issues"
+  },
+  "homepage": "https://github.com/cjpennock/mineSweeper#readme",
+  "dependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
